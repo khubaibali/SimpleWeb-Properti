@@ -1,3 +1,7 @@
+.f-row{
+    gap: 3rem;
+}
+
 .f-wrapper .footer_bg {
     position: relative;
     bottom: 0;
