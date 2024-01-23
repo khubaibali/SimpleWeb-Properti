@@ -60,3 +60,9 @@
     color: white;
     scale: 0.8rem;
 }
+
+.icon{
+    padding: 10px;
+    background: #eeeeff;
+    border-radius: 5px;
+}
