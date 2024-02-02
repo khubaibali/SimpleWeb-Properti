@@ -15,19 +15,19 @@ To run the project locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd realestate
+   cd SimpleWeb-Properti
    ```
 
 3. Install dependencies:
 
    ```bash
-   yarn
+   yarn i
    ```
 
 4. Run the development server:
 
    ```bash
-   yarn dev
+   yarn run dev
    ```
 
    This will start the development server, and you can view the application at `http://localhost:3000`.
