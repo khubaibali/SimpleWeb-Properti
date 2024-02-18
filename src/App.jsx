@@ -6,7 +6,7 @@ import Residence from "./components/Residencies/residence";
 import "./App.css";
 import Value from "./components/Value/value";
 import Contact from "./components/Contact/contact";
-import GetStarted from "./components/GetStarted/getStarted";
+import GetStarted from "./components/GetStarted/GetStarted";
 import Footer from "./components/Footer/footer";
 
 function App() {
