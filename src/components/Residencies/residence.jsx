@@ -31,6 +31,7 @@ const Residence = () => {
 
                                     <span className="primaryText">{item.name}</span>
                                     <span className="secondaryText">{item.detail}</span>
+                                    <span id='template_survey'></span>
                                 </div>
                             </SwiperSlide>
                         )
